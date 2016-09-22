@@ -1,0 +1,17 @@
+{
+  "className":  "ApplicationWebsocket",
+  "name":       "Chat",
+  "category": "development",
+  "mime":       null,
+  "icon":       "categories/applications-internet.png",
+  "config": {
+    "port": "8001"
+  },
+  "preload":    [
+    "main.js",
+    "main.css"
+  ]
+}
+
+
+

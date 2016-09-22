@@ -1,0 +1,6 @@
+{
+  "name": "WebsocketTest",
+  "dependencies": {
+    "ws.js": "latest"
+  }
+}
